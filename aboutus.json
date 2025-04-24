@@ -1,0 +1,45 @@
+{
+  "appName": "BlackLogics",
+  "developerName": "BlackLogics",
+  "discordInviteLink": "https://discord.gg/kq39yhT4rX",
+  "moddersteam": [
+    {
+      "modder_username": "NexusTeam & SmartIndiaGaming",
+      "modder_description": "Main modder",
+      "modder_img": "https://raw.githubusercontent.com/BlackLogicsIndia/BlackLogics-Version/refs/heads/main/IMG_20250124_105742_339.jpg",
+      "isTitled": true,
+      "isMainModder": true,
+      "isActive": true,
+      "title": "Main Modder"
+    },
+    {
+      "modder_username": "Neplozin",
+      "modder_description": "Main modder",
+      "modder_img": "https://raw.githubusercontent.com/BlackLogicsIndia/BlackLogics-Version/refs/heads/main/IMG_20250124_105951_293.jpg",
+      "isTitled": false,
+      "isMainModder": true,
+      "isActive": true,
+      "title": null
+    },
+    {
+      "modder_username": "Suhel Doley",
+      "modder_description": "Support Modder & Contributor",
+      "modder_img": "https://raw.githubusercontent.com/BlackLogicsIndia/BlackLogics-Version/refs/heads/main/suhel_doley.jpg",
+      "isTitled": false,
+      "isMainModder": false,
+      "isActive": true,
+      "title": null
+    }
+  ],
+  "changelog": [
+    {
+      "title": "BlackLogics v1.0",
+      "description": "Welcome to the initial version of BlackLogics! Experience a fresh start with all features streamlined for optimal performance.\n\n**Highlighted Features:**\n- Complete support for Java 1.9, 10, and 11 in project compilation.\n- Added syntax highlighting for Kotlin and XML files.\n- Auto-install and launch of projects using root access.\n- Enhanced user experience with improved dialogs, faster performance, and a sleek interface.\n\n**Fixes:**\n- Resolved compatibility issues with Firebase and Google Maps libraries.\n- Fixed various app crashes and improved stability across all modules.\n- Debug logs and ProGuard optimizations.\n\n**Updates:**\n- Default Android SDK upgraded to version 33.\n- Added support for exporting projects in signed APK or AAB formats.\n\nThank you for choosing BlackLogics!",
+      "releaseDate": 1705814400000,
+      "isBeta": false,
+      "isTitled": true
+    }
+  ],
+  "description": "**BlackLogics: Redefining Your Sketchware Experience**\n\nWelcome to **BlackLogics**, the ultimate tool for developers and modders, designed to elevate your app development experience to the next level. Combining performance, compatibility, and innovation, BlackLogics ensures you have all the tools needed to build, modify, and optimize your projects seamlessly. Whether you are an experienced developer or just starting, BlackLogics brings simplicity and power together. Here's everything that makes BlackLogics stand out:\n\n### **Core Features:**\n- **Java Compatibility:** Full support for Java 1.9, 10, and 11, offering greater flexibility and stability in project compilation.\n- **Kotlin & XML Syntax Highlighting:** Write clean, intuitive, and error-free code with syntax highlighting for both Kotlin and XML files.\n- **Root Automation:** With root access, automatically install and launch your projects, saving time and effort.\n\n### **Optimized User Interface:**\n- **Enhanced Dialogs:** Modernized dialogs for a more professional and polished development experience.\n- **Faster Performance:** Every module has been optimized for speed and reliability, ensuring smooth project creation and management.\n- **Sleek Design:** A clean, modern interface that is as functional as it is visually appealing.\n\n### **Improvements and Fixes:**\n- Resolved compatibility issues with popular libraries such as Firebase and Google Maps, ensuring seamless integration.\n- Debug logs and ProGuard optimizations for enhanced stability and debugging.\n- Fixed app crashes across all modules, making development stress-free.\n\n### **Exciting Updates:**\n- Upgraded Android SDK to version 33, aligning with the latest industry standards.\n- Added support for exporting projects in both signed APK and AAB formats, giving developers more flexibility.\n\n### **Why Choose BlackLogics?**\nBlackLogics is built for developers by developers. It eliminates the unnecessary complexities of traditional development tools and provides a streamlined environment where creativity meets efficiency. Whether you're building a small app or a complex project, BlackLogics empowers you to do more in less time.\n\nJoin the growing community of creators and modders and unlock the full potential of app development with BlackLogics.\n\nThank you for choosing **BlackLogics**—where innovation begins!"
+}
+  
