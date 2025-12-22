@@ -1,6 +1,6 @@
 {
   "appName": "BlackLogics",
-  "developerName": "BlackLogics",
+  "developerName": "NexusTeam",
   "discordInviteLink": "https://discord.gg/kq39yhT4rX",
   "moddersteam": [
     {
@@ -31,14 +31,35 @@
       "title": null
     }
   ],
-  "changelog": [
+  "versions": [
     {
-      "title": "BlackLogics v1.0",
-      "description": "Welcome to the initial version of BlackLogics! Experience a fresh start with all features streamlined for optimal performance.\n\nHighlighted Features:\n- Complete support for Java 1.9, 10, and 11 in project compilation.\n- Added syntax highlighting for Kotlin and XML files.\n- Auto-install and launch of projects using root access.\n- Enhanced user experience with improved dialogs, faster performance, and a sleek interface.\n\nFixes:\n- Resolved compatibility issues with Firebase and Google Maps libraries.\n- Fixed various app crashes and improved stability across all modules.\n- Debug logs and ProGuard optimizations.\n\nUpdates:\n- Default Android SDK upgraded to version 33.\n- Added support for exporting projects in signed APK or AAB formats.\n\nThank you for choosing BlackLogics!",
-      "releaseDate": 1705814400000,
-      "isBeta": false,
-      "isTitled": true
+      "title": "BlackLogics v0.0.1",
+      "description": "Initial public alpha version of BlackLogics. Basic drag‑and‑drop UI editor with foundational block logic system. Good for testing core features.",
+      "releaseDate": 1700000000000,
+      "isBeta": true
+    },
+    {
+      "title": "BlackLogics v0.0.3",
+      "description": "Minor update focusing on internal fixes and preparation for feature rollout. (No official detailed changelog available, community releases on sketchub noted improvements.)",
+      "releaseDate": 1702000000000,
+      "isBeta": true
+    },
+    {
+      "title": "BlackLogics v0.0.4",
+      "description": "Added widgets icons, preliminary **Web to APK export**, improved UI and other small enhancements based on community feedback. :contentReference[oaicite:1]{index=1}",
+      "releaseDate": 1703000000000,
+      "isBeta": true
+    },
+    {
+      "title": "BlackLogics v0.0.5",
+      "description": "May be final pre‑1.0 release. **Resource encryption**, **bottom sheet dialogs**, **UI overhauls**, improved **custom blocks**, **code generation upgrades**, and enhanced **AndroidX support**. :contentReference[oaicite:2]{index=2}",
+      "releaseDate": 1709308800000,
+      "isBeta": false
     }
   ],
-  "description": "BlackLogics is an advanced Sketchware alternative designed to empower developers and modders with modern tools and better control over their Android projects. It simplifies the development process while offering high-end features like support for Java 1.9 to 11, Kotlin, and XML syntax highlighting. BlackLogics goes beyond basic app building by providing root-powered project automation, real-time optimization, and a fully restructured UI/UX for a professional feel.\n\nIt’s built by young, passionate developers from India, and stands as a unique open-source tool tailored for those who want full control, performance, and innovation in one place. Whether you're just starting out or you're already a pro, BlackLogics offers a flexible, stable, and fast environment for building anything—from small apps to large-scale solutions.\n\nWith continuous updates, community support via Discord, and contributions from multiple modders, BlackLogics is not just a tool, it’s a movement to redefine mobile app development for everyone."
+  "description": "BlackLogics is an advanced open‑source visual Android app builder that lets anyone build apps without traditional coding by using a logic‑based system and drag‑and‑drop UI editor. It supports AndroidX libraries, resource encryption, custom blocks, web‑to‑APK export, and full project management features. Continuous community input and Discord support keep it evolving.",
+  "officialLinks": {
+    "github": "https://github.com/NexusTeamOfficial/BlackLogics-Open-Source",
+    "discord": "https://discord.gg/kq39yhT4rX"
+  }
 }
