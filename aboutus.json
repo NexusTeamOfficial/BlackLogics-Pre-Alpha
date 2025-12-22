@@ -26,7 +26,7 @@
       "modder_description": "Support Modder & Contributor",
       "modder_img": "https://raw.githubusercontent.com/BlackLogicsIndia/BlackLogics-Version/refs/heads/main/IMG_20250124_105742_339.jpg",
       "isTitled": false,
-      "isMainModder": false,
+      "isMainModder": true,
       "isActive": true,
       "title": null
     }
@@ -35,29 +35,29 @@
     {
       "title": "BlackLogics v0.0.1",
       "description": "Initial public alpha version of BlackLogics. Basic drag‑and‑drop UI editor with foundational block logic system. Good for testing core features.",
-      "releaseDate": 1700000000000,
+      "releaseDate": 1748246220000,
       "isBeta": true
     },
     {
       "title": "BlackLogics v0.0.3",
-      "description": "Minor update focusing on internal fixes and preparation for feature rollout. (No official detailed changelog available, community releases on sketchub noted improvements.)",
-      "releaseDate": 1702000000000,
+      "description": "Minor update focusing on internal fixes and preparation for feature rollout.",
+      "releaseDate": 1749400560000,
       "isBeta": true
     },
     {
-      "title": "BlackLogics v0.0.4",
-      "description": "Added widgets icons, preliminary **Web to APK export**, improved UI and other small enhancements based on community feedback. :contentReference[oaicite:1]{index=1}",
-      "releaseDate": 1703000000000,
+      "title": "BlackLogics v0.0.4-alpha4",
+      "description": "Added widgets icons, preliminary Web to APK export, improved UI and other small enhancements based on community feedback.",
+      "releaseDate": 1760023680000,
       "isBeta": true
     },
     {
       "title": "BlackLogics v0.0.5",
-      "description": "May be final pre‑1.0 release. **Resource encryption**, **bottom sheet dialogs**, **UI overhauls**, improved **custom blocks**, **code generation upgrades**, and enhanced **AndroidX support**. :contentReference[oaicite:2]{index=2}",
-      "releaseDate": 1709308800000,
+      "description": "May be final pre‑1.0 release. Resource encryption, bottom sheet dialogs, UI overhauls, improved custom blocks, code generation upgrades, and enhanced AndroidX support.",
+      "releaseDate": 1761801660000,
       "isBeta": false
     }
   ],
-  "description": "BlackLogics is an advanced open‑source visual Android app builder that lets anyone build apps without traditional coding by using a logic‑based system and drag‑and‑drop UI editor. It supports AndroidX libraries, resource encryption, custom blocks, web‑to‑APK export, and full project management features. Continuous community input and Discord support keep it evolving.",
+  "description": "BlackLogics is an advanced open‑source visual Android app builder that lets anyone build apps without traditional coding by using a logic‑based system and drag‑and‑drop UI editor.",
   "officialLinks": {
     "github": "https://github.com/NexusTeamOfficial/BlackLogics-Open-Source",
     "discord": "https://discord.gg/kq39yhT4rX"
