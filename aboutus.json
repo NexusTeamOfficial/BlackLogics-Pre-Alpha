@@ -2,6 +2,7 @@
   "appName": "BlackLogics",
   "developerName": "NexusTeam",
   "discordInviteLink": "https://discord.gg/kq39yhT4rX",
+
   "moddersteam": [
     {
       "modder_username": "NexusTeam & SmartIndiaGaming",
@@ -9,7 +10,6 @@
       "modder_img": "https://raw.githubusercontent.com/NexusTeamOfficial/BlackLogics-Pre-Alpha/refs/heads/main/167776425.png",
       "isTitled": true,
       "isMainModder": true,
-      "isActive": true,
       "title": "Main Modder"
     },
     {
@@ -18,8 +18,7 @@
       "modder_img": "https://raw.githubusercontent.com/NexusTeamOfficial/BlackLogics-Pre-Alpha/refs/heads/main/IMG_20250124_105951_293.jpg",
       "isTitled": false,
       "isMainModder": true,
-      "isActive": true,
-      "title": null
+      "title": ""
     },
     {
       "modder_username": "Suhel Doley",
@@ -27,39 +26,38 @@
       "modder_img": "https://raw.githubusercontent.com/NexusTeamOfficial/BlackLogics-Pre-Alpha/refs/heads/main/IMG_20250124_105742_339.jpg",
       "isTitled": false,
       "isMainModder": true,
-      "isActive": true,
-      "title": null
+      "title": ""
     }
   ],
-  "versions": [
+
+  "changelog": [
     {
+      "isTitled": true,
       "title": "BlackLogics v0.0.1",
-      "description": "Initial public alpha version of BlackLogics. Basic drag‑and‑drop UI editor with foundational block logic system. Good for testing core features.",
+      "description": "Initial public alpha version of BlackLogics. Basic drag-and-drop UI editor with foundational block logic system. Good for testing core features.",
       "releaseDate": 1748246220000,
       "isBeta": true
     },
     {
+      "isTitled": true,
       "title": "BlackLogics v0.0.3",
       "description": "Minor update focusing on internal fixes and preparation for feature rollout.",
       "releaseDate": 1749400560000,
       "isBeta": true
     },
     {
+      "isTitled": true,
       "title": "BlackLogics v0.0.4-alpha4",
       "description": "Added widgets icons, preliminary Web to APK export, improved UI and other small enhancements based on community feedback.",
       "releaseDate": 1760023680000,
       "isBeta": true
     },
     {
+      "isTitled": true,
       "title": "BlackLogics v0.0.5",
-      "description": "May be final pre‑1.0 release. Resource encryption, bottom sheet dialogs, UI overhauls, improved custom blocks, code generation upgrades, and enhanced AndroidX support.",
+      "description": "May be final pre-1.0 release. Resource encryption, bottom sheet dialogs, UI overhauls, improved custom blocks, code generation upgrades, and enhanced AndroidX support.",
       "releaseDate": 1761801660000,
       "isBeta": false
     }
-  ],
-  "description": "BlackLogics is an advanced open‑source visual Android app builder that lets anyone build apps without traditional coding by using a logic‑based system and drag‑and‑drop UI editor.",
-  "officialLinks": {
-    "github": "https://github.com/NexusTeamOfficial/BlackLogics-Open-Source",
-    "discord": "https://discord.gg/kq39yhT4rX"
-  }
+  ]
 }
