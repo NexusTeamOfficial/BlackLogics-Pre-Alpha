@@ -6,7 +6,7 @@
   "moddersteam": [
     {
       "modder_username": "NexusTeam & SmartIndiaGaming",
-      "modder_description": "Main modder",
+      "modder_description": "Founder",
       "modder_img": "https://raw.githubusercontent.com/NexusTeamOfficial/BlackLogics-Pre-Alpha/refs/heads/main/167776425.png",
       "isTitled": true,
       "isMainModder": true,
@@ -14,7 +14,7 @@
     },
     {
       "modder_username": "Neplozin",
-      "modder_description": "Main modder",
+      "modder_description": "Core Team",
       "modder_img": "https://raw.githubusercontent.com/NexusTeamOfficial/BlackLogics-Pre-Alpha/refs/heads/main/IMG_20250124_105951_293.jpg",
       "isTitled": false,
       "isMainModder": true,
@@ -22,17 +22,17 @@
     },
     {
       "modder_username": "Suhel Doley",
-      "modder_description": "Support Modder & Contributor",
+      "modder_description": "Core Team",
       "modder_img": "https://raw.githubusercontent.com/NexusTeamOfficial/BlackLogics-Pre-Alpha/refs/heads/main/IMG_20250124_105742_339.jpg",
       "isTitled": false,
       "isMainModder": true,
       "title": ""
     },
     {
-      "modder_username": "Gaurav develope",
+      "modder_username": "Gaurav developer",
       "modder_description": "Core Team",
       "modder_img": "https://raw.githubusercontent.com/NexusTeamOfficial/BlackLogics-Pre-Alpha/refs/heads/main/dd6c377f-738b-4b9c-948d-5f92a1a4ac50.png",
-      "isTitled": false,
+      "isTitled": true,
       "isMainModder": true,
       "title": ""
     }
